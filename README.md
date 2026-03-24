@@ -45,21 +45,19 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ershivuu&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ershivuu&theme=tokyonight" />
-</p>
-
----
-
+## 🤝 Connect with Me
 ## 🤝 Connect with Me
 
 <p align="center">
-  <a href="https://shivamgupta.xyz">🌐 Portfolio</a> •
-  <a href="mailto:er.shivamsg@gmail.com">📧 Email</a> •
-  <a href="#">💼 LinkedIn</a>
+  <a href="https://shivamgupta.xyz" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+  <a href="mailto:er.shivamsg@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/react-dev-shivam/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
 ---

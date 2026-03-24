@@ -46,7 +46,6 @@
 ---
 
 ## 🤝 Connect with Me
-## 🤝 Connect with Me
 
 <p align="center">
   <a href="https://shivamgupta.xyz" target="_blank">

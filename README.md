@@ -48,7 +48,7 @@
 ## 🤝 Connect with Me
 
 <p align="center">
-  <a href="https://shivamgupta.xyz" target="_blank">
+  <a href="https://ershivuu.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
   <a href="mailto:er.shivamsg@gmail.com" target="_blank">

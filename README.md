@@ -1,8 +1,8 @@
 <!-- Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Shivam%20Gupta&fontSize=40&fontColor=ffffff" />
+<p>
+<img src="https://res.cloudinary.com/superfolio/image/upload/v1620689979/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33332f63322f63363333633230656465383266306530636564376435373064626533613166332e676966_yjuh2s.gif" style="max-width: 100%; display: inline-block;"
+data-target="animated-image.originalImage">
 </p>
-
 <!-- Typing Animation -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=600&lines=Software+Developer;React.js+%7C+Node.js+%7C+TypeScript;SaaS+Builder;Performance+%26+Scalability+Focused" />

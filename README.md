@@ -5,7 +5,7 @@ data-target="animated-image.originalImage">
 </p>
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=600&lines=Software+Developer;React.js+%7C+Node.js+%7C+TypeScript;SaaS+Builder;Performance+%26+Scalability+Focused" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=600&lines=Shivam+Gupta;Software+Developer;React.js+%7C+Node.js+%7C+TypeScript;SaaS+Builder;Performance+%26+Scalability+Focused" />
 </p>
 
 ---

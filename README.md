@@ -48,13 +48,15 @@ data-target="animated-image.originalImage">
 ## 🤝 Connect with Me
 
 <p align="center">
-  <a href="https://ershivuu.netlify.app/" target="_blank">
+  <a href="https://ershivam.online/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
+  </a> 
+  
   <a href="mailto:er.shivamsg@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/react-dev-shivam/" target="_blank">
+  
+  <a href="https://www.linkedin.com/in/devshivuu/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>

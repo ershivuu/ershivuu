@@ -47,23 +47,7 @@ data-target="animated-image.originalImage">
 
 ## 🤝 Connect with Me
 
-<p align="center">
-  <a href="https://ershivam.online/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
-
-  &nbsp;&nbsp;&nbsp;
-
-  <a href="mailto:er.shivamsg@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-
-  &nbsp;&nbsp;&nbsp;
-
-  <a href="https://www.linkedin.com/in/devshivuu/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+<p align="center"> <a href="https://ershivam.online/" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" /> </a> <a href="mailto:er.shivamsg@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://www.linkedin.com/in/devshivuu/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> </p>
 
 ---
 
